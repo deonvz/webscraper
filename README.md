@@ -1,5 +1,5 @@
 # webscraper
-This is a Python based Webscrapter. It uses Selenium, the reletavice chromedriver and of course Python. Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. This is normally done by targeting tags, links or text on a page.
+This is a Python based Webscrapter. It uses Selenium, a webdriver such as chrome and of course Python. Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. It can also send keystrokes. This is normally done by targeting tags, links or text on a page.
 
 Install selenium:
 pip install selenium
